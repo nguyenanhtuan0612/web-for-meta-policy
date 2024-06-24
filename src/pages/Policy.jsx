@@ -7,10 +7,10 @@ export default function Policy() {
     <div>
       <Header />
       <div className="policy1">
-        <p class="title">Privacy Policy for VR Bowloing Trip</p>
+        <p class="title">Privacy Policy for VR Slice Simulator</p>
         <div class="tab-content translations-content-item en visible" id="en">
           <h1>Privacy Policy</h1>
-          <p>Last updated: June 09, 2024</p>
+          <p>Last updated: June 24, 2024</p>
           <p>
             This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how
             the law protects You.
@@ -18,7 +18,7 @@ export default function Policy() {
           <p>
             We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy
             Policy has been created with the help of the{' '}
-            <a href="https://www.privacypolicies.com/privacy-policy-generator/" target="_blank">
+            <a href="https://www.termsfeed.com/privacy-policy-generator/" target="_blank">
               Privacy Policy Generator
             </a>
             .
@@ -45,12 +45,12 @@ export default function Policy() {
             </li>
             <li>
               <p>
-                <strong>Application</strong> refers to VR Bowloing Trip, the software program provided by the Company.
+                <strong>Application</strong> refers to VR Slice Simulator, the software program provided by the Company.
               </p>
             </li>
             <li>
               <p>
-                <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to VR Bowloing Trip.
+                <strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to VR Slice Simulator.
               </p>
             </li>
             <li>
@@ -290,7 +290,7 @@ export default function Policy() {
           <h2>Contact Us</h2>
           <p>If you have any questions about this Privacy Policy, You can contact us:</p>
           <ul>
-            <li>By email: steven86young1430@gmail.com</li>
+            <li>By email: StephenErickson215@hotmail.com</li>
           </ul>
         </div>
       </div>

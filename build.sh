@@ -1,2 +1,2 @@
-rm -rf /var/www/bowlingtrip
-cp -a ./dist /var/www/bowlingtrip
+rm -rf /var/www/vr-slice-simulator
+cp -a ./dist /var/www/vr-slice-simulator

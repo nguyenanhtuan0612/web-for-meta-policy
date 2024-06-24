@@ -53,10 +53,9 @@ const Welcome = props => {
       <div className="welcome__info relative">
         <div className="welcome__info__content">
           <div className="title">
-            <span>Welcome To</span>
-            <h2 className="main-color">VR BOWLING TRIP</h2>
+            <h2 className="main-color">VR SLICE SIMULATOR</h2>
           </div>
-          <div className="description m-t-4">Let's play bowling with your favorite place in VR. Choose place and start the game.</div>
+          {/* <div className="description m-t-4">Let's play bowling with your favorite place in VR. Choose place and start the game.</div> */}
           <div className="btns m-t-4">
             <Button className="btn-main">READ MORE</Button>
             {/* <Button className="btn-second">GET STARTED</Button> */}
@@ -64,11 +63,11 @@ const Welcome = props => {
         </div>
       </div>
       <div className="welcome__img relative">
-        <div className="welcome__img__slide" id="welcome__img__slide">
+        {/* <div className="welcome__img__slide" id="welcome__img__slide">
           {champImgs.map((item, index) => (
             <img src={item} key={index} />
           ))}
-        </div>
+        </div> */}
       </div>
     </HomeSection>
   );

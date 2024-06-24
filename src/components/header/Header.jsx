@@ -2,14 +2,14 @@ import React from 'react';
 
 import './header.scss';
 
-import { Bowling } from '../../assets/images';
+import { logo } from '../../assets/images';
 
 const Header = () => {
   return (
     <div className="header">
       <div className="header__inner container">
         <div className="header__logo">
-          <img src={Bowling} alt="" />
+          <img src={logo} alt="logo" />
         </div>
         <ul className="header__nav">
           <li>
